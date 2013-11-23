@@ -9,6 +9,10 @@ c.navi.cc
 
     libevent-dev (2.0 or later )
 
+Установка в Ubuntu:
+
+    sudo apt-get install libevent-dev
+
 
 1. compile and install libevhtp library first
 
