@@ -1,0 +1,1180 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_value"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"c",
+				"count"
+			],
+			[
+				"Sys",
+				"Systems"
+			],
+			[
+				"S",
+				"Skey"
+			],
+			[
+				"Re",
+				"Return"
+			],
+			[
+				"P",
+				"PoolSpecs"
+			],
+			[
+				"Op",
+				"Opts"
+			],
+			[
+				"App",
+				"application"
+			],
+			[
+				"sta",
+				"startat"
+			],
+			[
+				"to",
+				"tokey"
+			],
+			[
+				"co",
+				"commands"
+			],
+			[
+				"un",
+				"undefined"
+			],
+			[
+				"bi",
+				"binary"
+			],
+			[
+				"su",
+				"subscribes"
+			],
+			[
+				"sub",
+				"subscribe"
+			],
+			[
+				"a",
+				"array"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"sys",
+				"systems"
+			],
+			[
+				"an",
+				"angular.copy	AngularJS"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"$",
+				"$route"
+			],
+			[
+				"s",
+				"skey"
+			],
+			[
+				"ng-s",
+				"ng-switch-default	AngularJS"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"ng-sw",
+				"ng-switch	AngularJS"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"lo",
+				"logout"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"ng-cl",
+				"ng-click	AngularJS"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"las",
+				"lastmarker"
+			],
+			[
+				"tep",
+				"templates"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"wa",
+				"watch"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"fi",
+				"function"
+			],
+			[
+				"bo",
+				"bottom:   (property)"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"ti",
+				"timeline"
+			],
+			[
+				"ho",
+				"hours"
+			],
+			[
+				"ma",
+				"max_dt"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"hour",
+				"hourto"
+			],
+			[
+				"el_",
+				"el_time"
+			],
+			[
+				"da",
+				"days"
+			],
+			[
+				"local",
+				"LocalStorage"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"tem",
+				"template"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"old",
+				"oldValue"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"on",
+				"onget"
+			],
+			[
+				"bin",
+				"bingps"
+			],
+			[
+				"base",
+				"alignment-baseline:   (property)"
+			],
+			[
+				"inli",
+				"inline-block  (value)"
+			],
+			[
+				"last",
+				"lastpoint"
+			],
+			[
+				"en",
+				"encode"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"borde-co",
+				"border-color"
+			],
+			[
+				"time",
+				"timedelta  (class)"
+			],
+			[
+				"backg",
+				"background-color:   (property)"
+			],
+			[
+				"pre",
+				"PreflightHandler"
+			],
+			[
+				"se",
+				"send_unicode  (variable)"
+			],
+			[
+				"Z",
+				"ZmqHandler"
+			],
+			[
+				"paddin",
+				"padding-top	zen:css_properties"
+			],
+			[
+				"loca",
+				"location	\\$location"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"la",
+				"lasts"
+			],
+			[
+				"roo",
+				"rootScope"
+			],
+			[
+				"pro",
+				"properties"
+			],
+			[
+				"Q",
+				"QUEUE"
+			],
+			[
+				"t",
+				"ticker  (variable)"
+			],
+			[
+				"_",
+				"_connection"
+			],
+			[
+				"Ch",
+				"ChatRouter"
+			],
+			[
+				"conn",
+				"connected"
+			],
+			[
+				"Conn",
+				"Connection"
+			],
+			[
+				"Con",
+				"Connection"
+			],
+			[
+				"Co",
+				"Connection"
+			],
+			[
+				"w",
+				"while"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-bottom-style"
+			],
+			[
+				"do",
+				"Do"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"ng-",
+				"ng-repeat"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"my",
+				"mySharedService"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"V",
+				"ValueError  (class)"
+			],
+			[
+				"p",
+				"pad"
+			],
+			[
+				"C",
+				"CURDIR"
+			],
+			[
+				"bro",
+				"broken_pipes"
+			],
+			[
+				"join",
+				"joinall"
+			],
+			[
+				"fo",
+				"force"
+			],
+			[
+				"stat",
+				"statistic_server_addr"
+			],
+			[
+				"loc",
+				"location"
+			],
+			[
+				"is",
+				"is_opened"
+			],
+			[
+				"SE",
+				"SERVER_MAGNUM_PORT"
+			],
+			[
+				"ite",
+				"iteritems  (function)"
+			],
+			[
+				"android_",
+				"android_clients"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"statisi",
+				"statistics"
+			],
+			[
+				"lis",
+				"listeners"
+			],
+			[
+				"cl",
+				"clients"
+			],
+			[
+				"sel",
+				"self/0"
+			],
+			[
+				"ser",
+				"set_header"
+			],
+			[
+				"Pi",
+				"PikaClient"
+			],
+			[
+				"ul",
+				"UL"
+			],
+			[
+				"thead",
+				"thead"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"mo",
+				"module"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/http-server.c",
+			"settings":
+			{
+				"buffer_size": 533,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "LICENSE",
+			"settings":
+			{
+				"buffer_size": 1072,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/Makefile",
+			"settings":
+			{
+				"buffer_size": 94,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 271,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/www-coffee-test.sublime-build",
+	"command_palette":
+	{
+		"height": 54.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"select",
+				"Emmet: Select Next Item"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snip",
+				"Snippet: |date"
+			],
+			[
+				"sni",
+				"Snippet: ngInclude"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff All"
+			],
+			[
+				"git: s",
+				"Git: Status"
+			],
+			[
+				"Inde",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"folder",
+				"Folders List"
+			],
+			[
+				"pACK",
+				"Package Control: Install Package"
+			],
+			[
+				"Space",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"gi",
+				"Git: Status"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 435.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"import urllib,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib.install_opener(urllib.build_opener(urllib.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/baden/SDK/newgps.navi.cc/c.navi.cc/src/http-server.c",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/.updates/log4erl/deps/mochiweb/src/mochiweb_request.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/Makefile",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/nginx-new.navi.cc.conf",
+		"/home/baden/tmp/crc/dump2.txt",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/tests/show-mem.sh",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_geos.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/gpsdb.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_systems_logs.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_handler.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_systems.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/mongodb.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_admin_systems.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/include/erlnavicc.hrl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_bingps.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_systems_params.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/translate_worker.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/logrotate",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_register.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/erlnavicc_sup.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/tmp/android.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_geos_hours.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/translate.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/priv/app.config",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/resource.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/cache.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_addlog.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_params.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_config.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/point_info.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/README.md",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/backup.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/rebar.config",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/rebar.config",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/test/api_info_test.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/../test/api_test.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_test.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/backup.sh",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/erlnavicc.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/stat/../backup.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_auth.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/api_account_systems.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/nginx-local.conf",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/ws_handler.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/websocket.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/rest_resource.erl",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/wiki/install.md",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/apps/erlnavicc/src/log.erl",
+		"/home/baden/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/baden/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/baden/.config/sublime-text-3/Packages/User/JSON.sublime-settings",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/wiki/publication.md",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/post-update",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/init.d",
+		"/home/baden/SDK/newgps.navi.cc/erlnavicc/etc/start-stop-erlang",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/map/map.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/map/map.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc.ghpages/buil_path.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/map.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/app.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/less/main.less",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/index.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/login/register.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/params.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/main.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/logs/logs.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/logs/logs.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/geogps.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/login/login.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/rest.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/services/connect.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/modal.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/dist/js/www-navi-cc.js",
+		"/home/baden/SDK/magnum-control/erlmagnum/apps/erlmagnum/src/websocket.erl",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/account.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/config.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/config.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/gps/gps.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/gps/gps.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/map/mapsysitem.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/map/mapsyslist.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/mapsysitem.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/params.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/assets/js/angular-resource-1.2.0-rc2.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/params.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/logs.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/resources/system.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/dist/js/angular-translate-1.1.0.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/i18n/ru.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/filters/i18n.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/i18n/alli18n.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc.ghpages/js/angular-translate.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/assets/js/angular-translate-1.1.0.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/assets/js/angular-1.2.0-rc2.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/icon.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/login/login.jade",
+		"/home/baden/SDK/newgps.navi.cc/erl.navi.cc/etc/nginx-local.conf",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/login/register.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/i18n/pl.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/i18n/en.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/loginform.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/i18n/ua.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/header.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/admin/admin.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/admin/admin.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/services/auth.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/login/loginform.jade",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/services/freshmark.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/services/lastmarker.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/reports/reports.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/help/help.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/error/error.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/master.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/fuel.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/data/data.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/less/map.less",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/.gitignore",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/less/config.less",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/assets/css/caricons-codes.css",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/directives/timeline.js",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/common/services/eventmarker.js",
+		"/home/baden/.config/sublime-text-3/Packages/Javascript Beautify/Default (Linux).sublime-keymap",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/src/app/config/params/master.tpl.html",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/Gruntfile.coffee",
+		"/home/baden/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/baden/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/baden/.config/sublime-text-3/Packages/User/Emmet.sublime-settings",
+		"/home/baden/SDK/newgps.navi.cc/www.navi.cc/www.navi.cc.sublime-project"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			":replace",
+			"lists:foldl",
+			"mongodb:aggregate",
+			"<<\"dynamic\">>",
+			"point_to_doc",
+			"Last",
+			"api",
+			"POST Return",
+			"CONFIGUP",
+			"cache:get",
+			"?POOL",
+			"poolboy",
+			"cache:put",
+			"cache:get",
+			"db_pool",
+			"resource_pool",
+			"pool",
+			"resource:get_cached",
+			"dynamic",
+			"application:get_",
+			"application:get_env",
+			"application:get",
+			"mongodb:update",
+			"cache:get",
+			"cache:put",
+			"title",
+			"caret",
+			"Field",
+			"attach",
+			"ping_node",
+			"ping",
+			"HOSTNAME",
+			"\"\n",
+			"systems",
+			"imei",
+			"test-01",
+			"watch(\"systems\"",
+			"watch(\"system\"",
+			"directives.modal",
+			"modal",
+			"directives.modal",
+			"modal",
+			"BuildPacket",
+			"ul.config_sys_list li",
+			"contenteditable",
+			"account.update",
+			"pack",
+			"skey",
+			"hasOwnProperty[",
+			"transform",
+			"transformResponse",
+			"save",
+			"$save",
+			"'translate'",
+			"filter('translate')",
+			"$filter(",
+			"$filter",
+			"'translate'",
+			"translate",
+			"promise.success",
+			"SERVER.point",
+			".point",
+			"account",
+			"accont",
+			"=\"@\"><",
+			"id=\"login\"",
+			".systemadd",
+			"Account.systemadd",
+			"Account",
+			"HeaderCtrl",
+			"AppCtrl",
+			"event:auth-loginRequired",
+			".systemsUpdate",
+			"account",
+			"mapsyslist:onClick",
+			"LastMarker:run",
+			"$freshmark:run",
+			"System.get",
+			"$scope.params.get",
+			"console",
+			"ConfigViewCtrl",
+			"tooltip",
+			"ngTranslate",
+			"strap",
+			"',\n",
+			"routeProvider",
+			"route",
+			"wide",
+			"now",
+			"value",
+			"center",
+			"lastpos",
+			"system",
+			"select",
+			"datepicker:changeDate",
+			"GeoGPS",
+			"\"GeoGPS",
+			"\"getTrack",
+			"====>",
+			"console.log",
+			"\"getTrack",
+			"console.log",
+			"getTrack",
+			"fileload",
+			"+++++++++++++",
+			"tz = ",
+			"I'am a spammer",
+			"I'am a spammer ",
+			"onmessage:",
+			"/*",
+			"EventMarker",
+			"jquery.min.map",
+			"wide",
+			"$location",
+			"json",
+			"temp",
+			"i18n",
+			"config",
+			"C_onn",
+			"e_lo",
+			"s_cope",
+			"data=",
+			"hideTrack",
+			"path",
+			"conso",
+			"i18",
+			"GeoGPS.",
+			"skey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"@",
+			"LastMarker",
+			"true",
+			"false",
+			"False",
+			"True"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/http-server.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 533,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "LICENSE",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1072,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 94,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 271,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								271,
+								271
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 42.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 303.0
+	},
+	"output.exec":
+	{
+		"height": 276.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 184.0
+	},
+	"project": "c.navi.cc.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"todo",
+				"git.navi.cc/www/js/todo.js"
+			],
+			[
+				"main",
+				"gprs-emulator/src/Microsoft.VC90.CRT/Microsoft.vc90.crt.manifest"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/SDK/newgps.navi.cc/www.navi.cc/www.navi.cc.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
