@@ -11,8 +11,9 @@ c.navi.cc
 
 Установка в Ubuntu:
 
-    sudo apt-get install libevent-dev
+    sudo apt-get install libevent-2.0-5 libevent-openssl-2.0-5 libevent-dev
 
+    # libevent-2.0-5 libevent-openssl-2.0-5 libevent-dev
 
 1. compile and install libevhtp library first
 

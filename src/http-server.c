@@ -6,6 +6,27 @@
 #include <evhtp.h>
 
 #define POINT_PORT 8781
+#define SERVER_NAME "c.navi.cc"
+
+static const char * method_strmap[] = {
+    "GET",
+    "HEAD",
+    "POST",
+    "PUT",
+    "DELETE",
+    "MKCOL",
+    "COPY",
+    "MOVE",
+    "OPTIONS",
+    "PROPFIND",
+    "PROPATCH",
+    "LOCK",
+    "UNLOCK",
+    "TRACE",
+    "CONNECT",
+    "PATCH",
+    "UNKNOWN",
+};
 
 void testcb(evhtp_request_t * req, void * a) {
     const char * str = a;
@@ -18,11 +39,27 @@ void testcb(evhtp_request_t * req, void * a) {
 
 void info_cb(evhtp_request_t * req, void * a) {
     const char * str = a;
+    evhtp_headers_t * headers;
 
-    // printf("Call info_cb\n");
+    if (!(headers = req->headers_out)) {
+        printf("Error set headers\n");
+        return;
+    }
+
+    int req_method = evhtp_request_get_method(req);
+    const char *uri = req->uri->path->full;
+
+    evhtp_headers_add_header(headers, evhtp_header_new("Access-Control-Allow-Credentials", "true", 0, 0));
+    evhtp_headers_add_header(headers, evhtp_header_new("Access-Control-Allow-Origin", "*", 0, 0));
+    evhtp_headers_add_header(headers, evhtp_header_new("Server", SERVER_NAME, 0, 0));
+    evhtp_headers_add_header(headers, evhtp_header_new("Content-Type", "text/plain", 0, 0));
+    evhtp_headers_add_header(headers, evhtp_header_new("X-Navi-API-version", "1.0", 0, 0));
 
     // evbuffer_add_printf(req->buffer_out, "%s", str);
-    evbuffer_add_printf(req->buffer_out, "REST methods: GET");
+    evbuffer_add_printf(req->buffer_out, "REST methods: GET\r\n");
+    evbuffer_add_printf(req->buffer_out, "uri : %s\r\n", uri);
+    evbuffer_add_printf(req->buffer_out, "query : %s\r\n", req->uri->query_raw);
+    evbuffer_add_printf(req->buffer_out, "Method : %s\n", method_strmap[req_method]);
     evhtp_send_reply(req, EVHTP_RES_OK);
 }
 
