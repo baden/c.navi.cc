@@ -1,7 +1,7 @@
 
-CFLAGS = -O3 -Wall -g
+CFLAGS = -O3 -g
 
-DEPS = ../deps
+DEPS = ../../deps
 
 # Библиотеки
 LIB_EVHTP_INCLUDES = -I $(DEPS)/libevhtp -I $(DEPS)/libevhtp/build -I $(DEPS)/libevhtp/evthr -I $(DEPS)/libevhtp/htparse -I $(DEPS)/libevhtp/oniguruma
@@ -24,19 +24,9 @@ LIB_WEBSOCK_OBJS = \
 
 INCLUDES = $(LIB_EVHTP_INCLUDES) $(LIB_WEBSOCK_INCLUDES)
 
+all: echo-server
 
-SRC = http-server.c api/http.c
+echo-server: echo-server.c
+	# libtool --mode=link gcc -o echo echo.c $(CFLAGS) $(INCLUDES) $(LIB_WEBSOCK_LIB) ../deps/libwebsock/src/.libs/libwebsock.la
+	gcc $< -o $@ $(CFLAGS) $(INCLUDES) $(patsubst %.o,$(LIB_WEBSOCK_LIB_PATH)%.o, $(LIB_WEBSOCK_OBJS)) -levent -levent_pthreads -lpthread
 
-OBJ = $(SRC:.c=.o)
-
-all: cnavicc
-
-%.o: %.c
-	gcc -c -o $@ $< $(CFLAGS) $(INCLUDES)
-
-cnavicc: $(OBJ)
-	gcc $^ -o $@ $(CFLAGS) $(LIB_EVHTP_LIB) -levent -levent_pthreads -lpthread
-
-
-clean:
-	rm $(OBJ) cnavicc
